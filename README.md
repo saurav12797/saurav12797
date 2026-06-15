@@ -25,7 +25,7 @@ I run **[InterviewHire](https://interviewhire.in)** — real loops from companie
 
 | | |
 |---|---|
-| [**interviewHire**](https://github.com/saurav12797/interviewHire) | Interview prep platform → [interviewhire.in](https://interviewhire.in) |
+| [**InterviewHire**](https://interviewhire.in) | Interview prep platform (private repo) |
 | [**mywebsite**](https://github.com/saurav12797/mywebsite) | Personal portfolio → [sauravkumar.in.net](https://sauravkumar.in.net) |
 
 ### What I believe about frontend interviews
